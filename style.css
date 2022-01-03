@@ -1,0 +1,106 @@
+
+.nav-link,btn{
+    font-weight:500;
+    /* transition:All .5s ease-in-out */
+}
+.nav-link:hover{
+    color: #55BC7E;
+}
+.perfect{
+     color: #4E6570;
+     background: #D3E8E1;
+     border-radius: 23px;
+     width:300px
+}
+.transform{
+    font-weight: 600;
+    /* font-size: 40px; */
+    /* line-height: 50px; */
+    color: #050931;
+    font-style: normal;
+}
+.Faff{
+    color: #4E6570;
+}
+.text{
+    font-size: 16px;
+    line-height: 28px;
+
+    /* or 175% */
+     /* text-align: center; */
+     color: #8F91A2;
+}
+.read{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #373B61;
+}
+.back{
+    /* position: absolute; */
+    /* width: 1440px; */
+    /* height: 389px; */
+    /* left: 0px; */
+    /* top: 1763px; */
+    background: #344763;
+}
+
+.form{
+    padding:4px;
+    border-radius:14px
+}
+.basic{
+    color: #55BC7E
+}
+h5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    
+    /* identical to box height, or 150% */
+    /* text-align: center; */
+    
+    color: #050931;
+
+
+}
+h2{
+      /* position: absolute; */
+      /* width: 94px; */
+      /* height: 94px; */
+      /* left: 679px; */
+      /* top: 5677px; */
+      border-rad
+      background: #C4C4C4;
+}
+.ff{
+    width: 94px;
+    height: 94px; 
+}
+footer{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    
+    /* identical to box height, or 125% */
+    
+    color: #DEE5F5;
+    
+   background: #344763;
+}
+.navbar-nav .nav-link:hover{
+    color: #55BC7E;
+}
+
+
+
+
+
+
+
+
+
